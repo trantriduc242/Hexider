@@ -3,7 +3,7 @@
 ![platform](https://img.shields.io/badge/platform-Raspberry%20Pi-blue)
 ![status](https://img.shields.io/badge/status-WIP-orange)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![ai](https://img.shields.io/badge/ai-YOLOv5n%20%2B%20Coral%20USB-brightgreen)
+![AI](https://img.shields.io/badge/ai-YOLOv5n%20%2B%20Coral%20USB-brightgreen)
 
 > A terrain-capable, vision-guided hexapod robot that carries payloads, tracks objects, and navigates autonomously — built with Raspberry Pi 5, Coral USB, STM32, and ROS2.
 
